@@ -3,10 +3,10 @@
 <p>- Deploying a Flask application utilizing Elastic Beanstalk </p>
 
 ## Table of Contents
-<a href="https://github.com/AdreReyes/Terraform_Deployment4/blob/main/Documentation.md"> - Documentation </a>
+<a href="https://github.com/AdreReyes/Jenkins_deployment2/blob/main/Documentation_D2.pdf"> - Documentation </a>
 <p> Documentation is my experience of the deployment but others may or may not be the same </p>
 
-<a href="https://github.com/AdreReyes/Terraform_Deployment4/blob/main/Diagram_4.png"> - Diagram </a>
+<a href="https://github.com/AdreReyes/Jenkins_deployment2/blob/main/D2_Pipeline%20Diagram.png"> - Diagram </a>
 <p> Diagram is a sketch of what happened/tools used in my own little organized, creative way </p>
     
 
